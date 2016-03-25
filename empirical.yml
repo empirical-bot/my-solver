@@ -1,5 +1,5 @@
 projects:
- hello-world-solver:
+ my-solver:
     type: solver
     image:
       build: .
