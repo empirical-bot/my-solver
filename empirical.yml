@@ -3,6 +3,5 @@ projects:
     type: solver
     image:
       build: .
-      dockerfile: solver/Dockerfile
     experiments:
       - evaluator: empirical-bot/my-evaluator:EJJoSOppg
