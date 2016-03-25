@@ -7,5 +7,5 @@ It sums two numbers :)
 ```python
 import solver as s
 solver = s.Solver()
-sum = s.solve(3,3)
+sum = solver.solve(3,3)
 ```
