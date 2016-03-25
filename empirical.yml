@@ -4,4 +4,4 @@ projects:
     image:
       build: .
     experiments:
-      - evaluator: empirical-bot/my-evaluator:EJJoSOppg
+      - evaluator: empirical-bot/my-evaluator:NJhZwp6Tx
