@@ -1,7 +1,6 @@
-projects:
+experiments:
  my-solver:
     type: solver
-    image:
+    environment:
       build: .
-    experiments:
-      - evaluator: empirical-bot/my-evaluator:EJJoSOppg
+    evaluator: empirical-bot/my-evaluator:EJJoSOppg
